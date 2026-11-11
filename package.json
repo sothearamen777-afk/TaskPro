@@ -1,0 +1,12 @@
+{
+  "name": "taskpro-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TaskPro Dynamic - online-ready task and project management system",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
